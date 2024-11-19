@@ -10,7 +10,7 @@ Welcome to **Movo: Daily Exercise App**, a powerful mobile application meticulou
 Movo is dedicated to supporting users at every stage of their fitness journey, whether they're aiming to improve flexibility, build strength, or relax through mindful meditation. Featuring a clean, user-friendly interface, Movo makes it easy for anyone to explore and engage in various exercise routines tailored to individual wellness goals.
 
 
-## About Movo: Benefits of Daily Exercise
+## About Movo
 
 Movo is more than just an exercise app. It’s a daily companion in your journey to better health and wellness, designed to fit effortlessly into any routine:
 - **Build Consistency**: Regular exercise is essential for mental and physical well-being, and Movo encourages users to maintain a steady workout routine.
@@ -18,7 +18,7 @@ Movo is more than just an exercise app. It’s a daily companion in your journey
 - **Guided Progress**: With structured sessions and progressive levels, Movo provides a clear path for users to deepen their practice and celebrate their progress.
 
 
-### Key Features:
+### Key Features
 - **Exercise Categories**: Browse a wide range of exercise categories, including Diet Recommendations, Kegel Exercises, Meditation, and Yoga. Each category is represented by visually engaging icons and descriptions.
 - **Search Functionality**: Effortlessly locate specific exercises, allowing users to tailor their fitness regimen to their preferences.
 - **Exercise Details Page**: Each exercise has its own page, offering structured sessions with guided routines for optimal benefit.
