@@ -36,7 +36,7 @@ Movo is more than just an exercise app. It’s a daily companion in your journey
 https://github.com/user-attachments/assets/818cbe6c-4b12-493f-8c42-b09f6eff032e
 
 
-#### Explore the application post on LinkedIn: <a target="_blank" href="*************"> Click Here. </a>
+#### Explore the application post on LinkedIn: <a target="_blank" href="https://www.linkedin.com/posts/theahmedhany_dart-flutter-movoapp-activity-7264536813363507200-s7F7?utm_source=share&utm_medium=member_desktop"> Click Here. </a>
 
 -----
 
